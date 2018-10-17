@@ -31,6 +31,8 @@ buildscript {
                     'palette'          : '1.0.0',
                     'recyclerview'     : '1.0.0',
                     'room'             : '2.0.0',
+                    'test_core'        : '1.0.0-beta02',
+                    'test_junit'       : '1.0.0-beta02',
                     'test_runner'      : '1.1.0-beta02',
                     'test_rules'       : '1.1.0-beta02',
                     'work'             : '1.0.0-alpha09'
@@ -39,7 +41,7 @@ buildscript {
             'dagger'         : '2.16', // Pinning this due to https://issuetracker.google.com/115738511
             'assistedinject' : '0.3.0',
             'epoxy'          : '3.0.0-rc1',
-            'espresso'       : '3.1.0-alpha4',
+            'espresso'       : '3.1.0-beta02',
             'firebase'       : '16.0.4',
             'glide'          : '4.8.0',
             'kotlin'         : '1.3.0-rc-146',
